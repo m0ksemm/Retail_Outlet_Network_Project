@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddStoreProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddStoreSaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CategoryCreateEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryStoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OperationCreateEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoleCreateEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaleStoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StoresCreateEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductCreateEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserCreateEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+@RON.WebAPI_HostAddress = http://localhost:5002
+
+GET {{RON.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
